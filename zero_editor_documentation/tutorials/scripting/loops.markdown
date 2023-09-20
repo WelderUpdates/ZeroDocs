@@ -284,7 +284,7 @@ A **for loop** contains a *loop condition// and a //loop body// just like a `whi
 #  The **loop body** runs next.
 
 # After the loop body runs, the **update statement** is executed.
- - The update statement is usually used to increment the index — typically taking it one step closer to making the loop condition become `false`.
+ - The update statement is usually used to increment the index Â— typically taking it one step closer to making the loop condition become `false`.
 
 #  Then the **loop condition** is checked again.
 
@@ -688,4 +688,3 @@ Rarely, it's actually desirable to create a loop that is intentionally unconditi
 - [ StopGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#stopgame)
  
 
- 
