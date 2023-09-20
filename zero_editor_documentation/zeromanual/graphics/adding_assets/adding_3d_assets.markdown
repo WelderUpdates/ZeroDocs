@@ -2,7 +2,7 @@
 
  # Models and Model Animations
 
-After the file has been imported, a new window will open—GroupImportOptions window—that will provide a number of options for how the data should converted into a Resource.
+After the file has been imported, a new window will openâ€”GroupImportOptions windowâ€”that will provide a number of options for how the data should converted into a Resource.
 
  ##  Group Import Options
 
@@ -136,4 +136,3 @@ GammaCorrection checkBox, when set to `true`, will correct the values of each in
 - [Skinned Model](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/skinnedmodel.markdown)
 - [Simple Animation](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/code_reference/class_reference/simpleanimation.markdown) 
 
- 
