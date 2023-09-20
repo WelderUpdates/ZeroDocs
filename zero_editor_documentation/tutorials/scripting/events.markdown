@@ -1,4 +1,4 @@
-Events are the main way that [Cogs](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/architecture/gameobjects.markdown) and [components](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/architecture/basiccomponents.markdown) communicate to each other in the Zero Engine. Often a component has information it needs to communicate to other components, one of the most flexible ways to do so is to package the information into an Event and then dispatch the event on an object. Then, any components that need the information can ìlistenî for the event to be dispatched, accessing that information in a special callback function.
+Events are the main way that [Cogs](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/architecture/gameobjects.markdown) and [components](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/tutorials/architecture/basiccomponents.markdown) communicate to each other in the Zero Engine. Often a component has information it needs to communicate to other components, one of the most flexible ways to do so is to package the information into an Event and then dispatch the event on an object. Then, any components that need the information can ‚Äúlisten‚Äù for the event to be dispatched, accessing that information in a special callback function.
 
 There are two types of events in the Zero Engine: built-in events and custom events. This lesson will cover built-in events while the next lesson will go over custom events.
 
@@ -258,4 +258,3 @@ Now we can see the particle system object being created in our event response fu
  ##  Development Task
 - T781 
 
- 
