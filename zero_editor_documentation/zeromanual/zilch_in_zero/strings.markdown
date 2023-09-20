@@ -289,7 +289,7 @@ gamedata
 
  ##  ByteCount and Count
 
-[ ByteCount](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown#bytecount-zero-engine-do) gets the number of bytes in the string. For a string that contains one or more characters outside of the ASCII range, this will be different from the number of runes represented by the string (see [ComputeRuneCount](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/strings/.markdown#computerunecount) below). Consider the following code example, attached to a cog that has a SpriteText component whose Text property is set to the French word //garçon//:
+[ ByteCount](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/string.markdown#bytecount-zero-engine-do) gets the number of bytes in the string. For a string that contains one or more characters outside of the ASCII range, this will be different from the number of runes represented by the string (see [ComputeRuneCount](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/strings/.markdown#computerunecount) below). Consider the following code example, attached to a cog that has a SpriteText component whose Text property is set to the French word //garÃ§on//:
 
 ```lang=csharp, name=ByteCount Example
 var englishString = "string";
@@ -566,4 +566,3 @@ Your ID is f08b47e1. Write it down.
 - [ Rune](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/rune.markdown)
 - [ RuneIterator](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/runeiterator.markdown) 
 
- 
