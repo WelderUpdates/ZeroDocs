@@ -37,7 +37,7 @@ This lesson covers the basic ways to rotate an object in 2D at runtime.
 *Hovering over [Transform.Rotation](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/transform.markdown#rotation-zero-engine-doc)*
 
 
-As you can see, rotational data is saved as a [Quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown). As a high-level developer, you do not need to know how Quaternions work, but you will need to know how to use them. In the `Properties Window`, Quaternions are represented by three angles that are the rotation of the object around the corresponding three axes; these are called Euler (pronounced ìoil-erî) angles. In this lesson, we will be working with a 2D game, so we only need to worry about the Z-axis rotation.
+As you can see, rotational data is saved as a [Quaternion](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/zilch_base_types/quaternion.markdown). As a high-level developer, you do not need to know how Quaternions work, but you will need to know how to use them. In the `Properties Window`, Quaternions are represented by three angles that are the rotation of the object around the corresponding three axes; these are called Euler (pronounced ‚Äúoil-er‚Äù) angles. In this lesson, we will be working with a 2D game, so we only need to worry about the Z-axis rotation.
 
 Rotation  can be changed either through the `Properties Window` or via accessing the [Transform](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/class_reference/transform.markdown) component in script.
 
@@ -226,4 +226,3 @@ Notice how both rotations appear the same. Now one may expect the object to make
  ## Tasks
 - T1174 
 
- 
