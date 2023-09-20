@@ -1,4 +1,4 @@
-Properties are one of the easiest ways to make components more reusable. While some properties affect runtime behavior, others are simply items that help set the initial state of one’s components.
+Properties are one of the easiest ways to make components more reusable. While some properties affect runtime behavior, others are simply items that help set the initial state of oneâ€™s components.
 
 One can see the WYSIWYG (what-you-see-is-what-you-get) effect with some of the built-in components.
 
@@ -115,4 +115,3 @@ Employing [ RunInEditor ](https://github.com/zeroengineteam/ZeroDocs/blob/master
 - [ Serialized ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown)
 - [ Editable ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown) 
 
- 
