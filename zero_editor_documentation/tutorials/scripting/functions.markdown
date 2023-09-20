@@ -22,7 +22,7 @@ This lesson covers the basics of using Functions in [Zilch](https://github.com/z
 
  # Custom Functions
 
-Functions are a sequence of logic statements that take a set of input variables with the goal of performing some operation. Functions are one of two main constructs within a class—the other being variables.
+Functions are a sequence of logic statements that take a set of input variables with the goal of performing some operation. Functions are one of two main constructs within a classâ€”the other being variables.
 
  ## Declaration
 
@@ -151,4 +151,3 @@ WARNING: Functions may use conditionals; however, when a Return Type is declared
 - [Add Resource](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#add)
  
 
- 
