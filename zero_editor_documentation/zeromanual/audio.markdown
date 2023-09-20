@@ -25,7 +25,7 @@ SoundInstances are created at runtime whenever a SoundCue is played, and can the
 
  # [SoundListener ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/audio/soundlistener.markdown)
 
-The SoundListener component ìhearsî all positional audio in a SoundSpace.
+The SoundListener component ‚Äúhears‚Äù all positional audio in a SoundSpace.
 
  # [SoundSpace ](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/audio/soundspace.markdown)
 
@@ -55,4 +55,3 @@ If a MIDI device is connected when the Zero Engine starts up it will listen for 
 
 The AudioSettings component can be added to Zero Engine's project settings to control project-wide audio settings. 
 
- 
