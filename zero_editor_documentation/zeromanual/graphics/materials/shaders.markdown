@@ -23,7 +23,7 @@ When adding a new ZilchFragment, there are multiple templates for each type of s
 
  # Shader Translation Debug Helper
 
-This tool translates Materials—rather, the ZilchFragments that make up the Material—into different versions of the shader language GLSL.
+This tool translates Materialsâ€”rather, the ZilchFragments that make up the Materialâ€”into different versions of the shader language GLSL.
 
 [Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ DebugShaderTranslation](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#debugshadertranslation) will open the tool
 
@@ -51,4 +51,3 @@ If not familiar with GLSL, these will become overwhelmingly complex very quickly
 - [Material](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/graphics/materials/materials_overview.markdown)
  
 
- 
