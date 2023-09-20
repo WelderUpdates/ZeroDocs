@@ -244,7 +244,7 @@ The positions that are now being printed to the console are now in world units, 
 
 - [ Command](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/commands.markdown) : [ StopGame](https://github.com/zeroengineteam/ZeroDocs/blob/master/code_reference/command_reference.markdown#stopgame)
 
-Now that we know how to find the world-space position of a mouse event, we can move things to the mouse's position, like, say, our balloon. First, though —
+Now that we know how to find the world-space position of a mouse event, we can move things to the mouse's position, like, say, our balloon. First, though Â—
 
 - [ Select](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/editor/editorcommands/selectobject.markdown) : LevelSettings object
 - In the `Properties Window`
@@ -319,4 +319,3 @@ This component will make whatever we attach it to animate its position to the wo
 - {T1185}
  
 
- 
