@@ -141,7 +141,7 @@ getName();
 getName = ef.Greeting;
 ```
 
-Line 24 passes the delegate variable into a function, `DelegateCaller`, which is defined further down the script—that calls the delegate function of any delegate passed into it:
+Line 24 passes the delegate variable into a function, `DelegateCaller`, which is defined further down the scriptâ€”that calls the delegate function of any delegate passed into it:
 ```lang=csharp, name=Driver Line 24
 getName = DelegateDriver.DelegateTest;
 ```
@@ -291,4 +291,3 @@ Attempted to invoke a null delegate
 - [classes](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/classes.markdown)
 - [attributes](https://github.com/zeroengineteam/ZeroDocs/blob/master/zero_editor_documentation/zeromanual/zilch_in_zero/attributes.markdown) 
 
- 
